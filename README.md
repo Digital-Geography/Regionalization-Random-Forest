@@ -1,4 +1,4 @@
-# Regionalized Random Forest
+# Regionalization Random Forest
 This repository can be used to arrive at more performant predictions in a spatial context than a "casual" Random Forest Regression Model. In certain scenarios, GWR and GW-RF can be outperformed as well. These three are also included  in order to be able to compare performance.
 
 In this example, the analysis was done for the California Housing Dataset which is available [here](https://www.dcc.fc.up.pt/~ltorgo/Regression/cal_housing).
